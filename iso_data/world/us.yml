@@ -19,6 +19,8 @@
   type: district
 - code: DE
   type: state
+- code: E
+  type: state collection
 - code: FL
   type: state
 - code: GA
@@ -105,6 +107,8 @@
   type: outlying area
 - code: VT
   type: state
+- code: W
+  type: state collection
 - code: WA
   type: state
 - code: WI

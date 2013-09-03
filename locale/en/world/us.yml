@@ -22,6 +22,8 @@ en:
         name: District of Columbia
       de:
         name: Delaware
+      e:
+        name: Eastern States
       fl:
         name: Florida
       ga:
@@ -108,6 +110,8 @@ en:
         name: Virgin Islands
       vt:
         name: Vermont
+      w:
+        name: Western States
       wa:
         name: Washington
       wi:

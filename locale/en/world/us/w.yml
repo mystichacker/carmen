@@ -1,0 +1,9 @@
+---
+en:
+  world:
+    us:
+      w:
+        ca:
+          name: California
+        or:
+          name: Oregon
